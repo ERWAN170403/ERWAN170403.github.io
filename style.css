@@ -311,7 +311,10 @@ section{
 }
 
 .home-image{
-    position: relative;
+    position: unset;
+    width: auto;
+    height: auto;
+    text-align: center;
 }
 
 .img-box{
